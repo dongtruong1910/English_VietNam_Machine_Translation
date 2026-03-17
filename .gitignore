@@ -1,0 +1,31 @@
+# ========================================
+# 1. Môi trường ảo & Cấu hình IDE (PyCharm)
+# ========================================
+.venv/
+.idea/
+
+# ========================================
+# 2. File tạm và Cache của Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================================
+# 3. Dữ liệu & Từ điển (Tránh làm phình Git)
+# ========================================
+# Bạn đang dùng 133k câu text và sinh ra các file JSON BPE, 
+# những file này nên được sinh ra bằng script chạy local.
+data/
+
+# ========================================
+# 4. Trọng số mô hình (File .pth)
+# ========================================
+# Chứa model weights, file này rất nặng và sẽ làm hỏng repository nếu push lên
+saved_models/
+
+# ========================================
+# 5. Các file rác của Hệ điều hành
+# ========================================
+.DS_Store
+Thumbs.db
