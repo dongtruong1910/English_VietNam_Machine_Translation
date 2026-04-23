@@ -16,13 +16,7 @@
 - [3. Data pipeline](#3-data-pipeline)
 - [4. Model và chi tiết training](#4-model-and-training-details)
 - [5. Cài đặt](#5-installation)
-- [6. Cách chạy](#6-how-to-run)
-- [7. API và web demo](#7-api-and-web-demo)
-- [8. Kết quả hiện tại](#8-current-results)
-- [9. Hướng dẫn cấu hình](#9-configuration-guide)
-- [10. Khắc phục sự cố](#10-troubleshooting)
-- [11. Roadmap](#11-roadmap)
-- [12. License](#12-license)
+
 
 <a id="1-project-overview"></a>
 ## 1. Tổng quan dự án
